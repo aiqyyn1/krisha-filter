@@ -2,7 +2,7 @@
   <div class="bg-yellow-50 p-6 rounded-lg shadow">
     <h2 class="text-xl font-bold mb-4">Фильтры поиска</h2>
     
-    <div class="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-3 gap-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
       <div class="space-y-2">
         <label class="block font-medium">Площадь (м²)</label>
         <div class="flex space-x-2">
@@ -54,7 +54,7 @@
       </div>
     </div>
     
-    <div class="mt-6 flex justify-end">
+    <div class="mt-6 flex justify-center lg:justify-end">
       <button
         @click="resetFilters"
         class="px-4 py-2 rounded-lg mr-2 border border-gray-300 rounded hover:bg-gray-100"

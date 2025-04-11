@@ -12,7 +12,7 @@
     </div>
     
     <div class="p-4">
-      <h3 class="font-bold text-lg mb-2 line-clamp-1">{{ property.address }}</h3>
+      <h3 class="font-bold text-lg mb-2 ">{{ property.address }}</h3>
       
       <div class="flex text-gray-600 mb-2">
         <div class="mr-4">

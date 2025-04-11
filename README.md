@@ -1,5 +1,36 @@
-# Vue 3 + Vite
+# Vue-Filters
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Проект **Vue-Filters** – это веб-приложение для поиска недвижимости в городе Астана, реализованное на [Vue 3](https://vuejs.org/), [Vite](https://vitejs.dev/), [Tailwind CSS](https://tailwindcss.com/) и [Element Plus](https://element-plus.org/). Приложение позволяет пользователю фильтровать объекты недвижимости (например, квартиры) по различным параметрам: площади, количеству комнат, адресу и т.д.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+![Screenshot Demo](./screenshot.png)  
+*Пример главной страницы приложения (при наличии скриншота)*
+
+## Функциональность
+
+- **Фильтрация недвижимости:** ввод диапазона площади, количества комнат, поиск по адресу;
+- **Динамическое отображение:** карточки объектов обновляются в режиме реального времени при изменении фильтров;
+- **Адаптивный дизайн:** корректное отображение на мобильных устройствах и десктопах;
+- **Генерация моковых данных:** данные о недвижимости хранятся в локальном JSON-файле (или генерируются для демонстрации).
+
+## Технологии
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Element Plus](https://element-plus.org/)
+- ES Modules
+
+## Установка и запуск
+
+### Предварительные требования
+
+- [Node.js](https://nodejs.org/) (рекомендуется версия >=14, лучше >=16)
+- [npm](https://www.npmjs.com/) или [Yarn](https://yarnpkg.com/)
+
+### Клонирование репозитория
+
+Склонируйте репозиторий на свой локальный компьютер:
+
+```bash
+git clone https://github.com/your-username/vue-filters.git
+cd vue-filters

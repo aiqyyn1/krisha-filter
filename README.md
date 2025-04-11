@@ -1,8 +1,8 @@
 # Vue-Filters
 
-Проект **Vue-Filters** – это веб-приложение для поиска недвижимости в городе Астана, реализованное на [Vue 3](https://vuejs.org/), [Vite](https://vitejs.dev/), [Tailwind CSS](https://tailwindcss.com/) и [Element Plus](https://element-plus.org/). Приложение позволяет пользователю фильтровать объекты недвижимости (например, квартиры) по различным параметрам: площади, количеству комнат, адресу и т.д.
+Проект **Vue-Filters** – это веб-приложение для поиска недвижимости в городе Астана, реализованное на [Vue 3](https://vuejs.org/), [Vite](https://vitejs.dev/), [Tailwind CSS](https://tailwindcss.com/). Приложение позволяет пользователю фильтровать объекты недвижимости (например, квартиры) по различным параметрам: площади, количеству комнат, адресу и т.д.
 
-![Screenshot Demo](./screenshot.png)  
+![Screenshot Demo](./screenshot.jpg)  
 *Пример главной страницы приложения (при наличии скриншота)*
 
 ## Функциональность
@@ -17,7 +17,6 @@
 - [Vue 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Element Plus](https://element-plus.org/)
 - ES Modules
 
 ## Установка и запуск

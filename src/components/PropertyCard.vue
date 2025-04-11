@@ -2,11 +2,11 @@
   <div class="bg-white rounded-lg shadow overflow-hidden hover:shadow-lg transition-shadow">
     <div class="relative pb-[60%]">
       <img 
-        :src="property.image" 
+        :src="property.image"
         :alt="property.address"
         class="absolute inset-0 w-full h-full object-cover"
       />
-      <div class="absolute bottom-0 left-0 bg-blue-500 text-white px-2 py-1 text-sm">
+      <div class="absolute bottom-0 rounded-sm left-0 bg-blue-500 text-white px-2 py-1 text-sm">
         {{ property.price }} ₸
       </div>
     </div>

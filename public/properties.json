@@ -5,7 +5,7 @@
     "area": 75,
     "rooms": 3,
     "price": "42 000 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/eb/eb63cc63-1e37-4e3b-b068-a640cc6a8e9c/1-750x470.webp",
     "description": "Просторная квартира в центре города с хорошим ремонтом и видом на набережную."
   },
   {
@@ -14,7 +14,7 @@
     "area": 45,
     "rooms": 1,
     "price": "22 500 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/2a/2a308ac4-59fe-4038-b256-2add08eed90e/4-750x470.webp",
     "description": "Уютная однокомнатная квартира с современным ремонтом в новом жилом комплексе."
   },
   {
@@ -23,7 +23,7 @@
     "area": 90,
     "rooms": 3,
     "price": "48 000 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/22/22c8c1b7-6bc4-45e8-b3fc-ec65e856f115/21-750x470.webp",
     "description": "Просторная трехкомнатная квартира с качественным ремонтом и мебелью."
   },
   {
@@ -32,7 +32,7 @@
     "area": 60,
     "rooms": 2,
     "price": "35 000 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/22/22c8c1b7-6bc4-45e8-b3fc-ec65e856f115/21-750x470.webp",
     "description": "Светлая двухкомнатная квартира с панорамными окнами и видом на город."
   },
   {
@@ -41,7 +41,7 @@
     "area": 120,
     "rooms": 4,
     "price": "65 000 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/e2/e26830f9-5115-4e15-adb7-830b121a385a/26-750x470.webp",
     "description": "Элитная четырехкомнатная квартира с дизайнерским ремонтом в престижном районе."
   },
   {
@@ -50,7 +50,7 @@
     "area": 50,
     "rooms": 2,
     "price": "25 000 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/f0/f06b70f6-172d-4ac2-9d28-6d53a47ab08a/20-750x470.webp",
     "description": "Компактная двухкомнатная квартира с функциональной планировкой в развитом районе."
   },
   {
@@ -59,7 +59,7 @@
     "area": 35,
     "rooms": 1,
     "price": "18 500 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/22/22c8c1b7-6bc4-45e8-b3fc-ec65e856f115/21-750x470.webp",
     "description": "Компактная студия с современным ремонтом в экологически чистом районе."
   },
   {
@@ -68,7 +68,7 @@
     "area": 85,
     "rooms": 3,
     "price": "52 000 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/f0/f06b70f6-172d-4ac2-9d28-6d53a47ab08a/20-750x470.webp",
     "description": "Премиум квартира с высокими потолками и панорамными окнами в элитном жилом комплексе."
   },
   {
@@ -77,7 +77,7 @@
     "area": 70,
     "rooms": 2,
     "price": "39 000 000",
-    "image": "/api/placeholder/400/320",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/e2/e26830f9-5115-4e15-adb7-830b121a385a/26-750x470.webp",
     "description": "Стильная двухкомнатная квартира с качественной отделкой и бытовой техникой."
   }
 ]

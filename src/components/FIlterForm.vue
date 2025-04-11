@@ -57,13 +57,13 @@
     <div class="mt-6 flex justify-end">
       <button
         @click="resetFilters"
-        class="px-4 py-2 mr-2 border border-gray-300 rounded hover:bg-gray-100"
+        class="px-4 py-2 rounded-lg mr-2 border border-gray-300 rounded hover:bg-gray-100"
       >
         Сбросить
       </button>
       <button
         @click="applyFilters"
-        class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        class="px-4 py-2 rounded-lg bg-blue-500 text-white rounded hover:bg-blue-600"
       >
         Применить
       </button>

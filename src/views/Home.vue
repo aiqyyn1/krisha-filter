@@ -51,15 +51,13 @@ export default {
       filters.value = newFilters;
       
       filteredProperties.value = properties.value.filter(property => {
-        // Filter by area
+
         if (filters.value.areaFrom && property.area < filters.value.areaFrom) return false;
         if (filters.value.areaTo && property.area > filters.value.areaTo) return false;
         
-        // Filter by rooms
         if (filters.value.roomsFrom && property.rooms < filters.value.roomsFrom) return false;
         if (filters.value.roomsTo && property.rooms > filters.value.roomsTo) return false;
         
-        // Filter by address
         if (filters.value.address && !property.address.toLowerCase().includes(filters.value.address.toLowerCase())) return false;
         
         return true;
@@ -67,7 +65,6 @@ export default {
     };
     
     onMounted(() => {
-      // In a real app, this would be an API call
       properties.value = propertyData;
       filteredProperties.value = propertyData;
     });

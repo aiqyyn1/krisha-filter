@@ -32,7 +32,7 @@
           @click="goToPage(currentPage - 1)" 
           :disabled="currentPage === 1"
           class="px-3 py-1 border rounded mr-2 disabled:opacity-50">
-          Prev
+          Назад
         </button>
         
         <template v-for="n in totalPages" :key="n">
@@ -50,7 +50,7 @@
           @click="goToPage(currentPage + 1)" 
           :disabled="currentPage === totalPages"
           class="px-3 py-1 border rounded ml-2 disabled:opacity-50">
-          Next
+          Дальше
         </button>
       </div>
     </div>

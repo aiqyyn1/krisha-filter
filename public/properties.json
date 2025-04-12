@@ -79,5 +79,32 @@
     "price": "39 000 000",
     "image": "https://alakt-photos-kr.kcdn.kz/webp/e2/e26830f9-5115-4e15-adb7-830b121a385a/26-750x470.webp",
     "description": "Стильная двухкомнатная квартира с качественной отделкой и бытовой техникой."
+  },
+  {
+    "id": 10,
+    "address": "пр. Кабанбай батыра, 49, ЖК Highvill",
+    "area": 85,
+    "rooms": 3,
+    "price": "52 000 000",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/f0/f06b70f6-172d-4ac2-9d28-6d53a47ab08a/20-750x470.webp",
+    "description": "Премиум квартира с высокими потолками и панорамными окнами в элитном жилом комплексе."
+  },
+  {
+    "id": 11,
+    "address": "ул. Жубанова, 27, ЖК Green Park",
+    "area": 35,
+    "rooms": 1,
+    "price": "18 500 000",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/22/22c8c1b7-6bc4-45e8-b3fc-ec65e856f115/21-750x470.webp",
+    "description": "Компактная студия с современным ремонтом в экологически чистом районе."
+  },
+  {
+    "id": 12,
+    "address": "ул. Кунаева, 14, ЖК Северное сияние",
+    "area": 70,
+    "rooms": 2,
+    "price": "39 000 000",
+    "image": "https://alakt-photos-kr.kcdn.kz/webp/e2/e26830f9-5115-4e15-adb7-830b121a385a/26-750x470.webp",
+    "description": "Стильная двухкомнатная квартира с качественной отделкой и бытовой техникой."
   }
 ]
